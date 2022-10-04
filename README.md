@@ -3,7 +3,7 @@ The purpose of this analysis was to utilize NYC Citibike data from the month of 
 
 Here's a link to the Challenge at Tableau: https://public.tableau.com/app/profile/chris.oestreich/viz/NYCBikeChallenge_16648431291590/BikeChallengeStory?publish=yes
 
-Female=Red=2  Male=Orange=1 Unknown=Blue=0
+Female=Red=2 -- Male=Orange=1 -- Unknown=Blue=0
 
 # Results
 
